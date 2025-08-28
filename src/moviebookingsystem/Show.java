@@ -6,14 +6,14 @@ import java.time.LocalDateTime;
 import java.util.Map;
 
 public class Show {
-    private final int showId;
+    private final String showId;
     private final Movie movie;
     private final LocalDateTime startTime;
     private final LocalDateTime endTime;
     private final Map<String, Seat> seats;
     private final Theater theater;
 
-    public Show(int showId, Movie movie, LocalDateTime startTime, LocalDateTime endTime, Map<String, Seat> seats,Theater theater) {
+    public Show(String showId, Movie movie, LocalDateTime startTime, LocalDateTime endTime, Map<String, Seat> seats,Theater theater) {
         this.showId = showId;
         this.movie = movie;
         this.startTime = startTime;
@@ -22,7 +22,7 @@ public class Show {
         this.theater=theater;
     }
 
-    public int getShowId() {
+    public String getShowId() {
         return showId;
     }
 
