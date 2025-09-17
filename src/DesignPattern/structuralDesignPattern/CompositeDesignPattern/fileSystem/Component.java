@@ -1,4 +1,4 @@
-package DesignPattern.structuralDesignPattern.CompositeDesignPattern;
+package DesignPattern.structuralDesignPattern.CompositeDesignPattern.fileSystem;
 
 public interface Component {
     String name();

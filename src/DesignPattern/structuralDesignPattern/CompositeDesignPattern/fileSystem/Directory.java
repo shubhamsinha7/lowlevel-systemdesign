@@ -1,10 +1,10 @@
-package DesignPattern.structuralDesignPattern.CompositeDesignPattern;
+package DesignPattern.structuralDesignPattern.CompositeDesignPattern.fileSystem;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class Directory implements Component{
+public class Directory implements Component {
     private final String name;
     private final List<Component>children=new ArrayList<>();
 

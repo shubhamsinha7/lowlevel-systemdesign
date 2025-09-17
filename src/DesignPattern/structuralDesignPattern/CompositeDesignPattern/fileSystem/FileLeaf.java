@@ -1,6 +1,6 @@
-package DesignPattern.structuralDesignPattern.CompositeDesignPattern;
+package DesignPattern.structuralDesignPattern.CompositeDesignPattern.fileSystem;
 
-final class FileLeaf implements Component{
+final class FileLeaf implements Component {
     private final String name;
     private final long bytes;
 
