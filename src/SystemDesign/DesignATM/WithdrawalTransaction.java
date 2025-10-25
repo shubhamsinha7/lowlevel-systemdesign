@@ -1,4 +1,4 @@
-package DesignATM;
+package SystemDesign.DesignATM;
 
 public class WithdrawalTransaction extends Transaction{
     protected WithdrawalTransaction(String transactionId, Account account, double amount) {

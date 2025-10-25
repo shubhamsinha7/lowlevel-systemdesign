@@ -1,8 +1,8 @@
-package moviebookingsystem.booking;
+package SystemDesign.moviebookingsystem.booking;
 
-import moviebookingsystem.Show;
-import moviebookingsystem.User;
-import moviebookingsystem.seat.Seat;
+import SystemDesign.moviebookingsystem.Show;
+import SystemDesign.moviebookingsystem.User;
+import SystemDesign.moviebookingsystem.seat.Seat;
 
 import java.util.List;
 

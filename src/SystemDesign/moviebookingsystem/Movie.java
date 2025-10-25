@@ -1,4 +1,4 @@
-package moviebookingsystem;
+package SystemDesign.moviebookingsystem;
 
 public class Movie {
     private int id;

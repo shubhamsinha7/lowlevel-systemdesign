@@ -1,6 +1,6 @@
-package moviebookingsystem;
+package SystemDesign.moviebookingsystem;
 
-import moviebookingsystem.booking.Booking;
+import SystemDesign.moviebookingsystem.booking.Booking;
 
 import java.util.ArrayList;
 import java.util.List;
