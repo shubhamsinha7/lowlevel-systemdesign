@@ -1,10 +1,10 @@
 package SystemDesign.DesignCricinfo;
 
 public class Ball {
-    int ballNumber;
-    int bowler;
-    int batsman;
-    int result;
+    private final int ballNumber;
+    private final int bowler;
+    private final int batsman;
+    private final int result;
 
     public Ball(int ballNumber, int bowler, int batsman, int result) {
         this.ballNumber = ballNumber;
