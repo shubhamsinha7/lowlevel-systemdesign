@@ -1,4 +1,4 @@
-package moviebookingsystem;
+package SystemDesign.moviebookingsystem;
 
 public class User {
     private final String emailId;

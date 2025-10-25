@@ -1,4 +1,4 @@
-package DesignATM;
+package SystemDesign.DesignATM;
 
 public class ATMDemo {
     public static void run() throws IllegalAccessException {

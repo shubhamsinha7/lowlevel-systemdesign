@@ -1,4 +1,4 @@
-package DesignATM;
+package SystemDesign.DesignATM;
 
 public class Account {
     private final String accountNumber;

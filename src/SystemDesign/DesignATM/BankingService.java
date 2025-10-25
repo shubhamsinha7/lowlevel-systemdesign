@@ -1,4 +1,4 @@
-package DesignATM;
+package SystemDesign.DesignATM;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

@@ -1,4 +1,4 @@
-package DesignATM;
+package SystemDesign.DesignATM;
 
 public abstract class Transaction {
     protected  final String transactionId;

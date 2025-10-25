@@ -1,6 +1,6 @@
-package moviebookingsystem;
+package SystemDesign.moviebookingsystem;
 
-import moviebookingsystem.seat.Seat;
+import SystemDesign.moviebookingsystem.seat.Seat;
 
 import java.time.LocalDateTime;
 import java.util.Map;

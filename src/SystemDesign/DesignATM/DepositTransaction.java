@@ -1,4 +1,4 @@
-package DesignATM;
+package SystemDesign.DesignATM;
 
 public class DepositTransaction extends Transaction{
     protected DepositTransaction(String transactionId, Account account, double amount) {

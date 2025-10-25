@@ -1,4 +1,4 @@
-package DesignATM;
+package SystemDesign.DesignATM;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
